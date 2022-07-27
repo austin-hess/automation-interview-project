@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "yarn tsc",
+    "start": "node ./dist/main.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "playwright": "^1.24.1"
+  }
+}
