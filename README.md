@@ -17,7 +17,4 @@ yarn install
 ## Instructions
 
 1. Write solution in `solution.ts`
-2. Compile with `yarn build`
-3. Run with `yarn start`
-
-Optionally, use `ts-node` to run the Typescript directly.
+2. Run with `yarn tbin`
