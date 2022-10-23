@@ -44,3 +44,5 @@ Write each search term’s lowest priced products to a CSV file where each row h
 How would you generalize this for any search term?
 
 How might you change your design if we needed to search products on a different website?
+
+How might you test this automation? - Talk through this only
