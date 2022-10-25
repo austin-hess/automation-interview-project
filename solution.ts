@@ -10,6 +10,6 @@ export async function main() {
   await browser.newPage();
 
   // wait - for easy debugging
-  wait(5000)
+  await wait(5000)
 
 }
